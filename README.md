@@ -1,5 +1,7 @@
 # claude-code-kit
 
+![claude-code-kit](images/banner.png)
+
 Small, measured add-ons for [Claude Code](https://code.claude.com): status lines, hooks, skills and agents. Each one has its own folder with what it does, how to install it, and before/after numbers where speed matters.
 
 ## What's inside
