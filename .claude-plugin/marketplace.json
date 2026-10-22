@@ -1,0 +1,11 @@
+{
+  "name": "sel1m-kit",
+  "owner": { "name": "Selim Aytac" },
+  "plugins": [
+    {
+      "name": "context-guard",
+      "source": "./plugins/context-guard",
+      "description": "Warns the agent at 70% and 85% of the context window so it wraps up with a summary before the window fills."
+    }
+  ]
+}

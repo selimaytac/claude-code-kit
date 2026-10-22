@@ -1,0 +1,7 @@
+{
+  "name": "context-guard",
+  "version": "0.1.0",
+  "description": "Warns the agent at 70% and 85% of the context window so it wraps up with a summary before the window fills.",
+  "author": { "name": "Selim Aytac" },
+  "license": "MIT"
+}
