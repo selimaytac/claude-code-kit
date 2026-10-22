@@ -1,6 +1,9 @@
 {
   "name": "sel1m-kit",
-  "owner": { "name": "Selim Aytac" },
+  "owner": {
+    "name": "Selim Aytac"
+  },
+  "description": "Small, measured Claude Code add-ons: hooks, skills and agents.",
   "plugins": [
     {
       "name": "context-guard",
